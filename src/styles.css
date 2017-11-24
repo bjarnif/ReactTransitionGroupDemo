@@ -1,0 +1,29 @@
+.wrapper {
+  padding: 30px 80px;
+}
+
+.container {
+  position: relative;
+}
+
+.box {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.box-svg {
+  opacity: 0;
+  transform: translate(300px, 0);
+}
+
+.circle {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.circle-svg {
+  opacity: 0;
+  transform: translate(300px, 0);
+}
