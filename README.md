@@ -1,3 +1,5 @@
+[![Edit react-transition-group-v221](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/bjarnif/ReactTransitionGroupDemo/tree/master/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
